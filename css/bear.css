@@ -10,8 +10,9 @@ html {
 
 /* Write your solution here */
 
-@media only device and (min-width: 1196px) {
-  #bear img {
+@media only screen and (min-width: 1196px) {
+
+  #bear div {
     position: fixed;
     left: 800px;
   }
