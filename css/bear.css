@@ -10,3 +10,9 @@ html {
 
 /* Write your solution here */
 
+@media only device and (max-width: 1196px) {
+  .bear img {
+    left: 800px;
+  }
+
+}
